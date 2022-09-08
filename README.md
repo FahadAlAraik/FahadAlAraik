@@ -1,4 +1,4 @@
--👋 Hi, I’m @FahadAlAraik, I’m interested in Machine Learning and Web Development
+-👋 Hi, I’m @FahadAlAraik, I’m interested in Machine Learning and Web Development<br>
 -🌱 I’m a MERN Full Stack Software Engineer, looking to land a junior job as a MERN Developer
 -🐱‍🏍 I'm currently learning Machine Learning and Computer Vision
 -📫 How to reach me Twitter: @fahad_alaraik
